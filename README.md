@@ -3,7 +3,7 @@ Python Script For Downloading Video and Mp3 from YouTube.
 <h5>-> Enter URL, Then choose your download Options.</h5>
 
 
-![termi](https://user-images.githubusercontent.com/104280578/164954995-fb2ba9b3-203b-4676-bb3f-aadd994064a9.png)
+![ut](https://user-images.githubusercontent.com/104280578/164965657-d42a11cf-40b8-4258-acae-7691be7ae03c.png)
 
 
 
