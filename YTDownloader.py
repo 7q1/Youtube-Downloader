@@ -22,9 +22,7 @@ BA = ("""
   ╚═╝        ╚══╝     ╚══════╝\n""")
 #EXIT Function To exit after finishing.
 def EXIT():
-  for i in range(5,0,-1):
-    print(f"[-] EXITING [{i}]")
-    time.sleep(0.3)
+  os.system("cls")
   exit()
 
 #Intro.
