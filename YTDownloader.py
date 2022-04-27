@@ -1,15 +1,12 @@
+import os
+try:
+  import pytube, youtube_dl, colorama
+except:
+  os.system("pip install pytube youtube_dl colorama")
+import subprocess , sys , time , string, os
 from pytube import YouTube
-import youtube_dl , subprocess , sys , time , string, os
-import colorama
-from colorama import Fore
+from colorama import *
 
-username = os.getlogin()
-ptPath = f'c:\\users\\{username}\\appdata\\local\\packages\\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\\localcache\\local-packages\\python39\\site-packages\\pytube'
-ytdlPath = f'c:\\users\\{username}\\appdata\\local\\packages\\pythonsoftwarefoundation.python.3.9_qbz5n2kfra8p0\\localcache\\local-packages\\python39\\site-packages\\youtube_dl' 
-if os.path.exists(ptPath) and os.path.exists(ytdlPath):
-  pass
-else:
-  subprocess.Popen(['start', 'cmd', '/c', 'pip install pytube youtube_dl'], shell = True)
 print('[+] Checking For Requirement . . .')
 time.sleep(1.5)
 BA = ("""
