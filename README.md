@@ -9,7 +9,7 @@ Python Script For Downloading Videos and Mp3 from YouTube.
 
 ![ut2](https://user-images.githubusercontent.com/104280578/164965746-bf146b25-e9ef-4cdc-9cec-1d58940a1ffb.png)
 
-
+---
 
 
 <h2>Socials:</h2>
@@ -21,4 +21,3 @@ Python Script For Downloading Videos and Mp3 from YouTube.
    <a href="https://www.python.org/" target="_blank">
     <img style="height: 40px; width:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> </img>
    </a>
----
