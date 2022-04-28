@@ -1,11 +1,11 @@
 # Youtube-Downloader
 Python Script For Downloading Videos and Mp3 from YouTube.
-<h5>-> Enter Youtube video URL.</h5>
+<h5>-> Enter Youtube Video Url</h5>
 
 
 ![ut](https://user-images.githubusercontent.com/104280578/164965657-d42a11cf-40b8-4258-acae-7691be7ae03c.png)
 
-<h5>-> Then choose your download Options.</h5>
+<h5>-> Choose Download Options.</h5>
 
 ![ut2](https://user-images.githubusercontent.com/104280578/164965746-bf146b25-e9ef-4cdc-9cec-1d58940a1ffb.png)
 
