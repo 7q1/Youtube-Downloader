@@ -8,7 +8,6 @@ from pytube import YouTube
 from colorama import *
 
 print('[+] Checking For Requirement . . .')
-time.sleep(1.5)
 BA = ("""
 
 ╔══════╗  ╔════════╗      ╔═╗
