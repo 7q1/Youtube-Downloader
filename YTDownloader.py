@@ -22,6 +22,7 @@ def EXIT():
   os.system("cls")
   exit()
 
+username = os.getlogin()
 #Intro.
 while 1:
   print('YOUTUBE DOWNLOADER BY:')
